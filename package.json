@@ -1,9 +1,10 @@
 {
   "name": "seabed-theme",
   "displayName": "Seabed Theme",
-  "description": "A not so dark and not so light theme, inspired by Vue logo.",
-  "version": "0.0.1",
+  "description": "A not so dark and not so light theme that will take you to the depths of sea..",
+  "version": "0.0.2",
   "publisher": "wolfian",
+  "icon": "images/seabed-theme-256.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/wolfian/seabed-theme.git"
