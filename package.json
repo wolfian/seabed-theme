@@ -9,6 +9,13 @@
     "type": "git",
     "url": "https://github.com/wolfian/seabed-theme.git"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "seabed",
+    "seabed theme",
+    "seabed dark theme"
+  ],
   "engines": {
     "vscode": "^1.61.0"
   },
