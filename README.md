@@ -12,4 +12,4 @@ ext install wolfian.seabed-theme
 
 ## Screenshot
 
-![Seebed theme screenshot](https://raw.githubusercontent.com/wolfian/seabed-theme/main/images/seabed-ss.png)
+![Seabed theme screenshot](https://raw.githubusercontent.com/wolfian/seabed-theme/main/images/seabed-ss.png)
